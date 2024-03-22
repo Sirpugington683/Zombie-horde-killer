@@ -1,5 +1,5 @@
 # Zombie-horde-killer
-
+A simple game where the player tries to fend off waves of enimies
 # Objectives
 
 * convert unity to python
