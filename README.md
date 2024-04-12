@@ -6,3 +6,4 @@ A simple game where the player has to manage resorces and consider every dicesio
 * create a nice inventory system
 * create lots of items that can aid the player
 * create some form of system to show distance and how close you are to victory (simaler to organ trail)
+* add lots of images
