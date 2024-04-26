@@ -1,5 +1,7 @@
 # Windago woods
 A simple game where the player has to manage resorces and consider every dicesion they make to escape the woods
+
+[link](https://replit.com/@9633067/image)
 # Objectives
 
 * give the game some form of replayability
